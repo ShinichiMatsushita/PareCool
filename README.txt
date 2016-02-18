@@ -1,5 +1,5 @@
 # PareCool
-touch README.md
+touch README.txt
 git init
 git add README.md
 git commit -m "first commit"
